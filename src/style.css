@@ -1,0 +1,97 @@
+.sidebar-class {
+    font-size: 20px;
+    padding-left: 20px;
+    background-color: rgb(62, 167, 209);
+    height: 1000px;
+    width: 150px;
+    color: white;
+}
+
+.components-class {
+    display: flex;
+}
+
+.common-class {
+    margin-top: 18px;
+}
+
+.green-class {
+    color: green;
+}
+
+.thumbnail-class {
+    height: 30px;
+}
+
+.img-class {
+    height: 20px;
+    width: 20px;
+}
+
+.div-class {
+    width: 200px;
+    padding: 10px;
+    border: 2px solid gray;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.title-class {
+    font-weight: bold;
+}
+
+.publish-class {
+    background-color: rgb(106, 250, 106);
+}
+
+.add-class {
+    width: 200px;
+    padding: 10px;
+    border: 2px solid gray;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.button-class {
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.result-class {
+    width: 200px;
+    padding: 10px;
+    border: 2px solid gray;
+    margin-left: 30px;
+    margin-top: 20px;
+    border-radius: 20px
+}
+.darkgreen-class{
+    background-color: green;
+}
+.lightgreen-class{
+    background-color: rgba(119, 162, 122, 0.937);
+}
+
+.launch-class {
+    background-color: rgb(238, 89, 89);
+    color: white;
+}
+
+.smell-class {
+    background-color: rgb(177, 245, 5);
+}
+
+
+.div2-class {
+    margin-left: 20px;
+}
+.treediv2-class {
+    margin-left: 20px;
+}
+
+.right-class {
+    display: flex;
+}
+.cross-class{
+    height: 30px;
+}
