@@ -152,7 +152,7 @@ if(item.furnitureUse == true){
                     <select id="height" onChange={handleChange} name="height" value={treeData.height} >
                         <option value=""> Select height</option>
                         <option value="short">short</option>
-                        <option value="tall">tall</option>
+                        <option value="tall">talll</option>
 
                     </select>
                 </div>
